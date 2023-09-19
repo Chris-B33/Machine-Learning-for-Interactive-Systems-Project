@@ -33,5 +33,3 @@ Talk to Scooby
 - Bark Coefficient Inputs
 - Max MSP analyzer~
 - Studying Documentation (Looking up functions) on software
-
-## Plan
