@@ -1,7 +1,6 @@
 # Voice Recognition Machine Learning Project
 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/MarkH03/Machine-Learning-For-Interactive-Systems-Project">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Chris-B33/Machine-Learning-For-Interactive-Systems-Project">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/MarkH03/Machine-Learning-For-Interactive-Systems-Project"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Chris-B33/Machine-Learning-For-Interactive-Systems-Project">
 
 
 ## Description
@@ -11,8 +10,7 @@ We decided to build a game where you control Scooby Doo trying to catch Scooby S
 It was trained on Mark's voice to recognize "Left" and "Right", as well as recognize his tone of voice, like if it was more frantic or calm sounding. That influences the speed at which the character moves.
 
 ## Images
-<img alt="Game Preview" src="https://i.postimg.cc/FkLqScnS/Scooby-Game.png">
-<img alt="Game Preview" src="https://i.postimg.cc/K46C2qRD/Scooby-Game2.png">
+<img alt="Game Preview" src="https://i.postimg.cc/FkLqScnS/Scooby-Game.png"> <img alt="Game Preview" src="https://i.postimg.cc/K46C2qRD/Scooby-Game2.png">
 
 ## Installation
 ### Softwares
